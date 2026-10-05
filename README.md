@@ -161,5 +161,3 @@ El fichero `enunciado_base.py` o `enunciado_base.cpp` con:
 - debajo de cada función, un comentario con su complejidad en el mejor y en el peor caso y una justificación breve.
 
 ---
-
-**Siguiente práctica:** Pilas y Colas. Verás por qué la lentitud de `pop(0)` importa tanto al implementar una cola.
