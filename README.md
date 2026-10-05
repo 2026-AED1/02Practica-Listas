@@ -1,7 +1,7 @@
 # Práctica 2: Listas
 
 **AED I — Bloque I** · 2 h en clase + 1 h en casa
-Algoritmos y Estructuras de Datos · Ingeniería Informática – Inteligencia Artificial
+Algoritmia y Estructuras de Datos · Ingeniería Informática – Inteligencia Artificial
 
 > Material de la sesión: [`transparencias.pdf`](transparencias.pdf)
 > Código de partida: [`enunciado_base.py`](enunciado_base.py) (Python) · [`enunciado_base.cpp`](enunciado_base.cpp) (C++)
