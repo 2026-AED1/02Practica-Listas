@@ -1,0 +1,17 @@
+# Red de seguridad: nunca publicar soluciones, tests de evaluación ni fuentes editables
+*solucion*
+*test_blackboard*
+*_QTI.zip
+*.pptx
+preguntas*.json
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Binarios de C++
+*.exe
+*.out
+*.o
+practica2
+solucion
